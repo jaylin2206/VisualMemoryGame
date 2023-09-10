@@ -6,6 +6,6 @@ Potential Additions (may revisit):
 - support for mobile browsers?
 
 Currently Known Issues:
-- poor sizing
+- 
 
-(As of 5-29-2023)
+(As of 2023-09-10)
