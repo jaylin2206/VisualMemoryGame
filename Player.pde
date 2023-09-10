@@ -24,7 +24,7 @@ PFont smaller;
 //boolean test = true;
 
 void setup() {  
-  size(2048, 1200);
+  size(displayWidth, displayHeight);
   background(colors[bg]);
   
   large = createFont("Courier New Bold", 200, true);
